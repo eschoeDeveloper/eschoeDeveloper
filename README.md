@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi I'm Backend Developer 👋
+## Always striving to grow 💬
+## Development is all about collaboration 😄
 <!--
 **eschoeDeveloper/eschoeDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
