@@ -2,7 +2,7 @@
 
 
 
-##**🎳 About Me 🎳**
+## 🎳 About Me 🎳
 
 Hi I'm Backend Developer 👋  
 Always striving to grow 💬  
@@ -12,7 +12,7 @@ Development is all about collaboration 😄
 
 
 
-##**🛠 Tech Stack 🛠**
+## 🛠 Tech Stack 🛠
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -26,13 +26,13 @@ Development is all about collaboration 😄
 
 
 
-##**📊 Language Usage 📊**
+## 📊 Language Usage 📊
 
 ![GitHub Stats](https://raw.githubusercontent.com/eschoeDeveloper/github-stats-transparent/output/generated/languages.svg)  
 
 
 
-##**📊 Stats Overview 📊**
+## 📊 Stats Overview 📊
 
 ![GitHub Stats](https://raw.githubusercontent.com/eschoeDeveloper/github-stats-transparent/output/generated/overview.svg)  
 
