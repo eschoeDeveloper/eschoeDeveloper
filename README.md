@@ -31,6 +31,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/eschoeDeveloper/github-stats-transparent/output/generated/languages.svg" alt="GitHub Language Stats" />
+  <img src="https://raw.githubusercontent.com/eschoeDeveloper/github-stats-transparent/output/generated/overview.svg" alt="GitHub Overview Stats" />
 </p>
 
 <h1 align="center">📊 Stats Overview 📊</h1>
