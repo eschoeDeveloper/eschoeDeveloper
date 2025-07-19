@@ -1,8 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20ChoeEuiSeung%20GitHub%20&height=300&fontSize=65&textBg=true)
 
+🎳 About Me 🎳
+
 Hi I'm Backend Developer 👋  
 Always striving to grow 💬  
 Development is all about collaboration 😄  
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sseung_._92)
 
 🛠 Tech Stack 🛠
 
@@ -12,5 +16,6 @@ Development is all about collaboration 😄
 ![Redis](https://img.shields.io/badge/Redis-D92B2B?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-🎳 About Me 🎳
+
+
 
