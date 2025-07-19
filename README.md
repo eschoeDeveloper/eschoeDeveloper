@@ -8,7 +8,7 @@ Hi I'm Backend Developer 👋
 Always striving to grow 💬  
 Development is all about collaboration 😄  
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sseung_._92)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sseung_._92)  
 
 
 
@@ -22,7 +22,7 @@ Development is all about collaboration 😄
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)  
 
 
 
@@ -34,5 +34,5 @@ Development is all about collaboration 😄
 
 ## 📊 Stats Overview 📊
 
-![GitHub Stats](https://raw.githubusercontent.com/eschoeDeveloper/github-stats-transparent/output/generated/overview.svg)  
+![GitHub Stats](https://raw.githubusercontent.com/eschoeDeveloper/github-stats-transparent/output/generated/overview.svg)    
 
