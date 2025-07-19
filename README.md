@@ -2,17 +2,17 @@
 
 
 <div align="center"><h1>🎳 About Me 🎳</h1></div>
-
+<div align="center">
 Hi I'm Backend Developer 👋  
 Always striving to grow 💬  
 Development is all about collaboration 😄  
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sseung_._92)  
-
+</div>
 
 
 <div align="center"><h1>🛠 Tech Stack 🛠</h1></div>
-
+<div align="center">
 ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -22,16 +22,16 @@ Development is all about collaboration 😄
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)  
-
+</div>
 
 
 <div align="center"><h1>📊 Language Usage 📊</h1></div>
-
+<div align="center">
 ![GitHub Stats](https://raw.githubusercontent.com/eschoeDeveloper/github-stats-transparent/output/generated/languages.svg)  
-
+</div>
 
 
 <div align="center"><h1>📊 Stats Overview 📊</h1></div>
-
+<div align="center">
 ![GitHub Stats](https://raw.githubusercontent.com/eschoeDeveloper/github-stats-transparent/output/generated/overview.svg)    
-
+</div>
