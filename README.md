@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20ChoeEuiSeung%20Develop%20&height=300&fontSize=65&textBg=true)
 
 
-
-## 🎳 About Me 🎳
+<p align="center"><h1>🎳 About Me 🎳</h1></p>
 
 Hi I'm Backend Developer 👋  
 Always striving to grow 💬  
@@ -12,7 +11,7 @@ Development is all about collaboration 😄
 
 
 
-## 🛠 Tech Stack 🛠
+<p align="center"><h1>🛠 Tech Stack 🛠</h1></p>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -26,13 +25,13 @@ Development is all about collaboration 😄
 
 
 
-## 📊 Language Usage 📊
+<p align="center"><h1>📊 Language Usage 📊</h1></p>
 
 ![GitHub Stats](https://raw.githubusercontent.com/eschoeDeveloper/github-stats-transparent/output/generated/languages.svg)  
 
 
 
-## 📊 Stats Overview 📊
+<p align="center"><h1>📊 Stats Overview 📊</h1></p>
 
 ![GitHub Stats](https://raw.githubusercontent.com/eschoeDeveloper/github-stats-transparent/output/generated/overview.svg)    
 
