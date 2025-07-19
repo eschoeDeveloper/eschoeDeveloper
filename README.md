@@ -1,5 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20ChoeEuiSeung%20Develop%20&height=300&fontSize=65&textBg=true)
-
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20ChoeEuiSeung%20Develop%20&height=300&fontSize=65&textBg=true"
+    alt="header"
+  />
+</p>
 
 <div align="center"><h1>🎳 About Me 🎳</h1></div>
 <p align="center">
@@ -27,15 +31,9 @@
 </p>
 
 
-<h1 align="center">📊 Language Usage 📊</h1>
+<h1 align="center">📊 Language Usage & Stats Overview 📊</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/eschoeDeveloper/github-stats-transparent/output/generated/languages.svg" alt="GitHub Language Stats" />
-  <img src="https://raw.githubusercontent.com/eschoeDeveloper/github-stats-transparent/output/generated/overview.svg" alt="GitHub Overview Stats" />
-</p>
-
-<h1 align="center">📊 Stats Overview 📊</h1>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/eschoeDeveloper/github-stats-transparent/output/generated/overview.svg" alt="GitHub Overview Stats" />
 </p>
