@@ -4,5 +4,10 @@ Hi I'm Backend Developer 👋
 Always striving to grow 💬
 Development is all about collaboration 😄
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
+🛠 Tech Stack 🛠
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+
+🎳 About Me 🎳
 
