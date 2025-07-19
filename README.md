@@ -2,13 +2,14 @@
 
 
 <div align="center"><h1>🎳 About Me 🎳</h1></div>
-<div align="center">
-Hi I'm Backend Developer 👋  
-Always striving to grow 💬  
-Development is all about collaboration 😄  
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sseung_._92)  
-</div>
+<p align="center">
+  Hi I'm Backend Developer 👋<br />
+  Always striving to grow 💬<br />
+  Development is all about collaboration 😄<br /><br />
+  <a href="https://www.instagram.com/sseung_._92" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 
 <div align="center"><h1>🛠 Tech Stack 🛠</h1></div>
@@ -26,13 +27,14 @@ Development is all about collaboration 😄
 </p>
 
 
-<div align="center"><h1>📊 Language Usage 📊</h1></div>
-<div align="center">
-![GitHub Stats](https://raw.githubusercontent.com/eschoeDeveloper/github-stats-transparent/output/generated/languages.svg)  
-</div>
+<h1 align="center">📊 Language Usage 📊</h1>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eschoeDeveloper/github-stats-transparent/output/generated/languages.svg" alt="GitHub Language Stats" />
+</p>
 
-<div align="center"><h1>📊 Stats Overview 📊</h1></div>
-<div align="center">
-![GitHub Stats](https://raw.githubusercontent.com/eschoeDeveloper/github-stats-transparent/output/generated/overview.svg)    
-</div>
+<h1 align="center">📊 Stats Overview 📊</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eschoeDeveloper/github-stats-transparent/output/generated/overview.svg" alt="GitHub Overview Stats" />
+</p>
