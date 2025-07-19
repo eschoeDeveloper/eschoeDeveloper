@@ -20,4 +20,7 @@ Development is all about collaboration 😄
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
+![GitHub Stats](https://raw.githubusercontent.com/eschoeDeveloper/github-stats-transparent/output/generated/languages.svg)  
+
+![GitHub Stats](https://raw.githubusercontent.com/eschoeDeveloper/github-stats-transparent/output/generated/overview.svg)  
 
