@@ -11,7 +11,7 @@ Development is all about collaboration 😄
 
 
 
-<center><h1>🛠 Tech Stack 🛠</h1></center>
+<div align="center"><h1>🛠 Tech Stack 🛠</h1></div>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -25,13 +25,13 @@ Development is all about collaboration 😄
 
 
 
-<center><h1>📊 Language Usage 📊</h1></center>
+<div align="center"><h1>📊 Language Usage 📊</h1></div>
 
 ![GitHub Stats](https://raw.githubusercontent.com/eschoeDeveloper/github-stats-transparent/output/generated/languages.svg)  
 
 
 
-<center><h1>📊 Stats Overview 📊</h1></center>
+<div align="center"><h1>📊 Stats Overview 📊</h1></div>
 
 ![GitHub Stats](https://raw.githubusercontent.com/eschoeDeveloper/github-stats-transparent/output/generated/overview.svg)    
 
